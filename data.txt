@@ -1,0 +1,43 @@
+shortcuts
+file explorer, ctrl + shift + E
+file search, ctrl + shift + F
+git bar, ctrl + shift + G
+term, ctrl + `
+term output, ctrl + shift + U
+term problems, ctrl + shift + M
+bar, ctrl + B
+end
+
+hms
+zen mode, ctrl + K + Z
+history navigation, ctrl + tab or alt + left/right
+keybinds list, ctrl + K ctrl + S
+end
+
+tips
+formatting, shift + alt + F
+select line, ctrl + L
+rename word all file, ctrl + shift + L
+next problem, F8
+go to line, ctrl + G
+go to next word, ctrl + D"
+trim spaces, ctrl + K ctrl + X
+up/down register, ctrl + shift + P and write transform
+fold/unfold brackets, ctrl + shift + [ or ]
+fold/unfold brackets all file, ctrl + K ctrl + 0 or J
+back cursor position, ctrl + U
+end
+
+basics
+open folder, ctrl + K ctrl + O
+go to file, ctrl + P
+create file, ctrl + alt + win + N
+new empty window, ctrl + N
+vs code search, ctrl + shift + P
+recent open, ctrl + R
+split terminal, ctrl + /
+end
+
+exts
+coderunner, run, ctrl + alt + J
+end
